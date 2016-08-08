@@ -1,7 +1,8 @@
-h1{
-    text-align:center;
+body {
+    background: url('http://i1.kym-cdn.com/photos/images/original/000/951/156/073.gif');
 }
-a{
-    text-decoration:none;
-    text-align:center;
+
+#moveText {
+    text-align: center;
+    position: relative;
 }
